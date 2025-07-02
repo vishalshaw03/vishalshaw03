@@ -49,7 +49,7 @@ development trends and technologies.</h3>
 <p>
 <!--   <img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=vishalshaw03&show_icons=true&locale=en&theme=transparent" alt="vishalshaw03" /> -->
 
-  <img align="left" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalshaw03&theme=transparent" alt="vishalshaw03" />
+  <img align="left" width="380" src="https://streak-stats.demolab.com?user=vishalshaw03&theme=dark&hide_border=true" alt="" />
 </p>
 
 <!-- <p>
