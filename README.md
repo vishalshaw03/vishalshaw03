@@ -1,57 +1,38 @@
+<table>
+<tr>
+<td width="60%">
 <h1 align="center">Hi 👋, I'm Vishal Shaw</h1>
+  <h3 align="left">
+  A software developer who believes that code is like great art: clean, purposeful, and invisible when done right.
+  
+  <br />
+  My journey spans both front-end elegance and back-end resilience, building everything from sleek interfaces to robust APIs. I love turning abstract problems into working software and user experiences that feel effortless.
 
-<h3 align="left">A passionate frontend developer with strong problem-solving skills and ability to work in a fast-paced environment.
-Proficient in building responsive and user-friendly web applications. Strong attention to detail and
-ability to work independently or as part of a team. Staying updated with the latest web
-development trends and technologies.</h3>
+  <br />
+  Beyond frameworks and libraries, I care deeply about scalability, readability, and developer experience. I'm continuously learning and refining, because in tech, stagnation is the only bug without a fix.
 
+  <br />
+  If it’s meaningful, challenging, or beautiful — I’m probably building it.
+  </h3>
+</td>
+<td width="40%" align="right">
+  <img src="./assets/animation.gif" alt="Developer Animation" width="90%" height="80%" />
+</td>
+</tr>
+<table>
 
 ## 🛠️ **Languages & Tools:**
 
 <p>
-
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Node](https://img.shields.io/badge/-Node-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular)
-![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=react)
-![Next.JS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/tailwind-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
-
-<!-- ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux) -->
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
-![GCP](https://img.shields.io/badge/-GCP-f0db4f?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon)
- 
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,java,python,nodejs,express,nestjs,angular,react,nextjs,redux,tailwind,sass,spring,mysql,postgres,mongodb,redis,rabbitmq,git,firebase,docker,gcp,aws" />
 </p>
-
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshaw03&label=Profile%20views&color=0e75b6&style=flat" alt="vishalshaw03" /> </p> -->
 
-
-📫 How to reach me **vishal00shaw@gmail.com**
-
+📫 Reach out to me for collaboration, freelance gigs, or just to chat tech: **vishal00shaw@gmail.com**
 
 ## 📈 **Github Stats:**
 
 <p>
-<!--   <img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=vishalshaw03&show_icons=true&locale=en&theme=transparent" alt="vishalshaw03" /> -->
-
   <img align="left" width="380" src="https://streak-stats.demolab.com?user=vishalshaw03&theme=dark&hide_border=true" alt="" />
 </p>
-
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalshaw03&show_icons=true&locale=en&layout=compact" alt="vishalshaw03" />
-</p> -->
