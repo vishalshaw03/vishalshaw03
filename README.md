@@ -20,7 +20,7 @@
   </h3>
 </td>
 <td width="40%" align="right">
-  <img src="./assets/animation.gif" alt="Developer Animation" width="90%" height="80%" />
+  <img src="./assets/animation.gif" alt="Developer Animation" width="90%" />
 </td>
 </tr>
 <table>
