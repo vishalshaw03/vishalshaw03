@@ -38,8 +38,10 @@
 
 ## 📈 **Github Stats:**
 
-<p>
-  <img align="left" width="380" src="https://streak-stats.demolab.com?user=vishalshaw03&theme=dark&hide_border=true" alt="" />
 
-  <img align="right" width="550" src="https://vishal-shaw.in/api/github-stats" alt="" />  
+<p>
+  <img align="left" width="42%" src="https://streak-stats.demolab.com?user=vishalshaw03&theme=dark&hide_border=true" alt="" />
+
+  <img align="right" width="54%" src="https://vishal-shaw.in/api/github-stats" alt="" />  
 </p>
+
